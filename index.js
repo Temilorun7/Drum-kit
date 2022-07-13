@@ -1,5 +1,3 @@
-alert("welcome to the drumkit game!");
-
 var numberOfDrums = document.querySelectorAll(".drum").length; //gets the number of drum buttons
 
 for (var i = 0; i < numberOfDrums; i++) {
